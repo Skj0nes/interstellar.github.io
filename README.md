@@ -1,2 +1,2 @@
-# interstellar.github.io
+Interstellar
 The premium games site
